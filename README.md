@@ -8,6 +8,8 @@
 [![dependencies Status][node-dependencies-badge]][node-dependencies]
 [![devDependencies Status][node-dev-dependencies-badge]][node-dev-dependencies]
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/organization/repository)
+
 Dependencies Graph View (DGV) provides a view to explore assemblies dependencies store by [Dependencies Graph Services]().
 
 # Features available
